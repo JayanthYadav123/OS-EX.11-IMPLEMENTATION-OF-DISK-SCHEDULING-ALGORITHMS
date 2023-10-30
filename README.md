@@ -62,14 +62,11 @@ successfully executed.
 
 ### AIM:
 To write a program for the first come first serve method of disc scheduling.
-
 ### DESCRIPTION:
 Shortest seek time first (SSTF) algorithm
-
 Shortest seek time first (SSTF) algorithm selects the disk I/O request which requires the least disk arm
 movement from its current position regardless of the direction. It reduces the total seek time as compared
 to FCFS.
-
 ### PROGRAM:
 ```
 Developed By:G.Jayanth.
@@ -110,11 +107,9 @@ return 0;
 }
 
 ```
-
 ### OUTPUT:
 
 ![Screenshot 2023-10-08 204225](https://github.com/Dhivya-bharathi88/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/128019999/916566e6-4eeb-410b-a7cc-2d5d7b563bc7)
-
 
 ### RESULT:
 Thus the implementation of the program for shortest seek time first disc scheduling has been
